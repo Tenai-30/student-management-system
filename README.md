@@ -7,6 +7,7 @@ COURSE:COMPUTER SCIENCE
 #STUDENT MANAGEMENT SYSTEM
 A menu driven program for managing student records.
 
+
 #FEATURES
 Add student record.
 Display students.
@@ -16,10 +17,12 @@ Display the best performing student.
 Calculate Average
 Assign Grades.
 
+
 #TECH USED
 C language
 GCC compiler
 Git & GitHub
+
 
 #PROGRAM STRUCTURE
 Arrays
@@ -29,11 +32,13 @@ Loops
 Conditional statements.
 Swith statements
 
+
 #COMPILING &RUNNING
 \'\'\'bash
 gcc main.c-o student-system
 ./student_system
 \'\'\'
+
 
 #GRADING SCALE
 90-100 |A|
@@ -42,6 +47,7 @@ gcc main.c-o student-system
 60-69 |D|
 50-59 |E|
 Below 50 |F|
+
 
 #AUTHOR
 Tenai Marion
