@@ -56,6 +56,8 @@ Below 50 |F|
 
 First time using git,it was not as fluent at first.
 
+![screenshot description](program%20run.png)
+
 
 #AUTHOR
 
