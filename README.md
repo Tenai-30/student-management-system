@@ -1,5 +1,7 @@
 NAME: TENAI MARION CHEROP
+
 REG NO:C026-01-0806/2024
+
 COURSE:COMPUTER SCIENCE
 
 #STUDENT MANAGEMENT SYSTEM
@@ -18,6 +20,7 @@ Assign Grades.
 C language
 GCC compiler
 Git & GitHub
+
 #PROGRAM STRUCTURE
 Arrays
 Structures
