@@ -4,25 +4,26 @@ REG NO:C026-01-0806/2024
 
 COURSE:COMPUTER SCIENCE
 
-#STUDENT MANAGEMENT SYSTEM
+#STUDENT MANAGEMENT SYSTEM:EXPLANATION
+
 A menu driven program for managing student records.
 
 
-#FEATURES
+#FUNCTION USED
 
-Add student record
+add_student()
 
-Display students.
+display_students()
 
-Search a student by admission number.
+search_student()
 
-Update student details.
+Update_student()
 
-Display the best performing student.
+best_student()
 
-Calculate Average
+calculate average()
 
-Assign Grades.
+grades()
 
 
 #TECH USED
@@ -34,17 +35,8 @@ Git & GitHub
 
 
 #PROGRAM STRUCTURE
-Arrays
 
-Structures
-
-Functions
-
-Loops
-
-Conditional statements.
-
-Swith statements
+Used the student structure to store student detais.
 
 #GRADING SCALE
 
@@ -60,6 +52,9 @@ Swith statements
 
 Below 50 |F|
 
+#CHALLENGES
+
+First time using git,it was not as fluent at first.
 
 #AUTHOR
 
