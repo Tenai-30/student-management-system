@@ -1,3 +1,7 @@
+NAME: TENAI MARION CHEROP
+REG NO:C026-01-0806/2024
+COURSE:COMPUTER SCIENCE
+
 #STUDENT MANAGEMENT SYSTEM
 A menu driven program for managing student records.
 
